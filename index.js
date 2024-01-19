@@ -5,4 +5,4 @@ function table(number){
 }
 
 table(4)
-// hello
+// 
